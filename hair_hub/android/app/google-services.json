@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564829110484",
+    "project_id": "hairhub-303d4",
+    "storage_bucket": "hairhub-303d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564829110484:android:2243edb9e74bcc06f47b41",
+        "android_client_info": {
+          "package_name": "com.example.hair_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb2BHtXInqLlCoHuTWMPeZ-9oR8EAREyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
